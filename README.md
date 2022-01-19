@@ -7,6 +7,8 @@ To create the initial fork, click on the button on the top right corner of the s
 # Accessing labs
 Each of the labs will be posted in a finalized form on the central github branch. 
 If this occurs after you have created your fork, GitHub will prompt you to fetch the upstream files as shown in the picture below. 
+![image](https://user-images.githubusercontent.com/93576355/150105813-0fd6b1dd-97ae-49a2-87b7-b7f8113f1ca5.png)
+
 
 # Turning in your labs
 
